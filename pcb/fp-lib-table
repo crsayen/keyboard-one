@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "/Users/chris/dev/low pro slide switch/footprints.pretty")(options "")(descr ""))
+)

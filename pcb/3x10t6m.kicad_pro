@@ -48,13 +48,7 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
@@ -117,16 +111,8 @@
         "min_via_diameter": 0.39999999999999997,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [
-        0.0,
-        0.5
-      ],
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "track_widths": [],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -377,10 +363,10 @@
   "pcbnew": {
     "last_paths": {
       "gencad": "",
-      "idf": "../../../../../../Documents/Keyboard project/pcbv2",
+      "idf": "../../../../../../Documents/Keyboard project/ergo3by6plus3nonSplit.emn",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../../../../Documents/Keyboard project/pcbv2 step",
+      "step": "../../../../../../Documents/Keyboard project/ergo3by6plus3nonSplit.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

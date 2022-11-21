@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 36,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -33,10 +33,13 @@
       3,
       4,
       5,
+      8,
       9,
       10,
       11,
+      12,
       13,
+      14,
       15,
       16,
       17,
@@ -46,6 +49,7 @@
       21,
       22,
       23,
+      24,
       25,
       26,
       27,
@@ -58,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffc1034_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "ergo3by6plus3nonSplit.kicad_prl",
+    "filename": "3x10t6m.kicad_prl",
     "version": 3
   },
   "project": {

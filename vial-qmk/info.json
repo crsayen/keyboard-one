@@ -1,0 +1,58 @@
+{
+  "keyboard_name": "keyboard-one",
+  "url": "",
+  "maintainer": "crsayen",
+  "usb": {
+    "device_version": "1.0.0",
+    "pid": "0x0000",
+    "vid": "0xFEED"
+  },
+  "layouts": {
+    "LAYOUT": {
+      "layout": [
+        { "label": "SW1", "x": 0, "y": 0 },
+        { "label": "SW2", "x": 1, "y": 0 },
+        { "label": "SW3", "x": 2, "y": 0 },
+        { "label": "SW4", "x": 3, "y": 0 },
+        { "label": "SW5", "x": 4, "y": 0 },
+        { "label": "SW6", "x": 5, "y": 0 },
+        { "label": "SW7", "x": 6, "y": 0 },
+        { "label": "SW8", "x": 7, "y": 0 },
+        { "label": "SW9", "x": 8, "y": 0 },
+        { "label": "SW10", "x": 9, "y": 0 },
+        { "label": "SW11", "x": 10, "y": 0 },
+        { "label": "SW12", "x": 11, "y": 0 },
+        { "label": "SW13", "x": 0, "y": 1 },
+        { "label": "SW14", "x": 1, "y": 1 },
+        { "label": "SW15", "x": 2, "y": 1 },
+        { "label": "SW16", "x": 3, "y": 1 },
+        { "label": "SW17", "x": 4, "y": 1 },
+        { "label": "SW18", "x": 5, "y": 1 },
+        { "label": "SW19", "x": 6, "y": 1 },
+        { "label": "SW20", "x": 7, "y": 1 },
+        { "label": "SW21", "x": 8, "y": 1 },
+        { "label": "SW22", "x": 9, "y": 1 },
+        { "label": "SW23", "x": 10, "y": 1 },
+        { "label": "SW24", "x": 11, "y": 1 },
+        { "label": "SW25", "x": 0, "y": 2 },
+        { "label": "SW26", "x": 1, "y": 2 },
+        { "label": "SW27", "x": 2, "y": 2 },
+        { "label": "SW28", "x": 3, "y": 2 },
+        { "label": "SW29", "x": 4, "y": 2 },
+        { "label": "SW30", "x": 5, "y": 2 },
+        { "label": "SW31", "x": 6, "y": 2 },
+        { "label": "SW32", "x": 7, "y": 2 },
+        { "label": "SW33", "x": 8, "y": 2 },
+        { "label": "SW34", "x": 9, "y": 2 },
+        { "label": "SW35", "x": 10, "y": 2 },
+        { "label": "SW36", "x": 11, "y": 2 },
+        { "label": "SW37", "x": 3, "y": 3 },
+        { "label": "SW38", "x": 4, "y": 3 },
+        { "label": "SW39", "x": 5, "y": 3 },
+        { "label": "SW30", "x": 6, "y": 3 },
+        { "label": "SW41", "x": 7, "y": 3 },
+        { "label": "SW42", "x": 8, "y": 3 }
+      ]
+    }
+  }
+}
